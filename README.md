@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="static/Bash_logo.png" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src=static/Git_logo.png" height="30" alt="git logo"  />
+  <img src="static/Git_logo.png" height="30" alt="git logo"  />
 </div>
 
 ###
