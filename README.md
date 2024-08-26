@@ -17,8 +17,8 @@
   <img width="12" />
   <img src="static/Python_logo.png" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="static/Rust_logo.png" height="30" alt="rust logo"  />
-  <img width="12" />
+#  <img src="static/Rust_logo.png" height="30" alt="rust logo"  />
+#  <img width="12" />
   <img src="static/HTML5_logo.png" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="static/CSS3_logo.png" height="30" alt="css3 logo"  />
