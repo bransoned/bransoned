@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Branson and I am a CS Student at FSU</h2>
+<h2 align="center">Hi, I'm Branson, a CS Student at FSU</h2>
 
 ###
 
