@@ -3,23 +3,6 @@
 ###
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bransoned&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false&order=2" height="150" alt="languages graph" /> <br />
-
-  
-  <img src="static/C++_logo.png" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="static/C_logo.png" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="static/Python_logo.png" height="30" alt="python logo"  />
-  <img width="12" />
-<!--  <img src="static/Rust_logo.png" height="30" alt="rust logo"  />
-  <img width="12" /> -->
-  <img src="static/HTML5_logo.png" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="static/CSS3_logo.png" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="static/Bash_logo.png" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="static/Git_logo.png" height="30" alt="git logo"  />
 </div>
 
 ###
